@@ -1,0 +1,53 @@
+зддддддддддддддддддддддддддддддд©
+Ё  .RTPATCH DOCUMENTATION FILE  Ё
+юддддддддддддддддддддддддддддддды
+
+   Date Created : 10/30/97
+   Time Created : 10:28:47
+
+   Patch File   : PATCH.RTP (Created)
+
+
+
+зддддддддддддддддддддддддддддддддддд©
+Ё  PATCH PROGRAM BEHAVIOR SETTINGS  Ё
+юддддддддддддддддддддддддддддддддддды
+
+   Backup Affected Files      : OFF
+   Ignore Missing FIles       : OFF
+   Print  Error Messages      : ON
+   Search PATH for Files      : ON
+   Search Subdirectories      : ON
+   Global Patch Undo on Error : OFF
+   User Level                 : ADVANCED
+   Information Display Level  : VERBOSE
+   Password Protection        : OFF
+
+
+
+зддддддддддддддддддддддд©
+Ё  FILES TO BE PATCHED  Ё
+юддддддддддддддддддддддды
+
+                                                                     Pct    
+  Action   Entry Name     Old Name       New Name      Patch Size  Reduced  
+зддддддддбддддддддддддддбддддддддддддддбддддддддддддддбддддддддддбддддддддд©
+ЁHISTORY Ё              Ё              Ё              Ё          Ё         Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.ERR       Ё ML.ERR       Ё ML.ERR       Ё     222  Ё   97%   Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.ERR       Ё ML.ERR       Ё ML.ERR       Ё     200  Ё   97%   Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.ERR       Ё ML.ERR       Ё ML.ERR       Ё      71  Ё   99%   Ё
+цддддддддеддддддддддддддеддддддддддддддеддддддддддддддеддддддддддеддддддддд╢
+ЁHISTORY Ё              Ё              Ё              Ё          Ё         Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.EXE       Ё ML.EXE       Ё ML.EXE       Ё  135619  Ё   64%   Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.EXE       Ё ML.EXE       Ё ML.EXE       Ё  161813  Ё   58%   Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.EXE       Ё ML.EXE       Ё ML.EXE       Ё  182134  Ё   50%   Ё
+Ё        Ё              Ё              Ё              Ё          Ё         Ё
+Ё MODIFY Ё ML.EXE       Ё ML.EXE       Ё ML.EXE       Ё  115729  Ё   67%   Ё
+юддддддддаддддддддддддддаддддддддддддддаддддддддддддддаддддддддддаддддддддды
+
