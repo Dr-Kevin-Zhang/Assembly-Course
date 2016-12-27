@@ -1,0 +1,13 @@
+;PROG0407
+.MODEL SMALL
+.386
+.STACK 64
+.DATA
+HI   DB    	'Hello!',0dh,0ah,'$'
+.CODE
+.STARTUP
+MOV    	AH,9
+LEA     	DX,HI
+INT     	21H
+.EXIT   
+END  
